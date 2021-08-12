@@ -1,1 +1,1 @@
-alx software project on git
+alx-pre_course git project
